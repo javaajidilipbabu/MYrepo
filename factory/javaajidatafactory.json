@@ -1,0 +1,9 @@
+{
+	"name": "javaajidatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "047b3885-b271-47b8-a457-0efe8a2bd955",
+		"tenantId": "afbb3b22-067e-4d42-b30e-670158e44f59"
+	}
+}
